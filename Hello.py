@@ -34,6 +34,12 @@ def run():
         and visualize the data for analysis purposes. 
         **👈 Select an item from the sidebar** to see respective analysis
         performed by TSA.
+
+        The TSA is build based on an article in [Towards Data Science](https://towardsdatascience.com/comprehensive-time-series-exploratory-analysis-78bf40d16083)
+        
+        
+        
+        
         ### Want to learn more?
         - Check out [streamlit.io](https://streamlit.io)
         - Jump into our [documentation](https://docs.streamlit.io)

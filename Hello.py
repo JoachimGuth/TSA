@@ -24,16 +24,16 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# Welcome to Time Series Analysis! 👋")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Select a menu item above.")
 
     st.markdown(
         """
-        Streamlit is an open-source app framework built specifically for
-        Machine Learning and Data Science projects.
-        **👈 Select a demo from the sidebar** to see some examples
-        of what Streamlit can do!
+        TSA is a Time Series Analysis application to explore time series data
+        and visualize the data for analysis purposes. 
+        **👈 Select an item from the sidebar** to see respective analysis
+        performed by TSA.
         ### Want to learn more?
         - Check out [streamlit.io](https://streamlit.io)
         - Jump into our [documentation](https://docs.streamlit.io)
